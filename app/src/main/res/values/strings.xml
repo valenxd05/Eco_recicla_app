@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">MyApp</string>
+<string name="hello_world">Hello World!</string>
+<string name="icon_power">Power Icon</string>
+<string name="icon_notification">Notification Icon</string>
+<string name="my_account">Mi Cuenta</string>
+<string name="map">Mapa</string>
+<string name="community">Comunidad</string>
+<string name="business">Empresas</string>
+<string name="statistics">Estadísticas</string>
+<string name="tips">Tips</string>
+<string name="banner_description">Banner de Bienvenida</string>
+</resources>
